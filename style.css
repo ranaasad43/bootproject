@@ -1,0 +1,60 @@
+.bar > a{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+body{
+    background: #1a1a1a;
+}
+#jumbo{
+    margin-bottom: 0;
+    background-image: url('bg-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 450px;
+    opacity: 0.8 ;
+    width: 100%;
+    color: #f2f2f2;
+
+}
+footer {
+    margin-top: 20px;
+    height: 250px;
+    background:#333;
+}
+.paralx{
+    background-image: url('1.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.5;
+}
+.slider img{
+    width: 100%;
+    height: 600px;
+    opacity: 0.7;
+}
+.pathalert{
+    background: #b32400;
+    border: 3px solid #661400;
+}
+.cardhero img{
+    width:100%;
+    height: 280px;
+}
+.paratext{
+    color: #e6b800;
+    background: #b32400;
+    position: absolute;
+    top: 40%;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+.paratext:hover{
+    color: yellow;
+}
